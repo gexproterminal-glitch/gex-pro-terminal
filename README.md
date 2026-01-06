@@ -47,7 +47,7 @@ The core logic of the GEX Pro Terminal is proprietary. To access the live dashbo
 
 1. **Visit the Terminal:** [gexpro.asiaquant.com](https://gexpro.asiaquant.com)
 2. **Main Site:** [www.asiaquant.com](https://www.asiaquant.com)
-3. **Demo:** Check out our [YouTube Channel](https://www.youtube.com/@YourChannel) for live agent walkthroughs.
+3. **Demo:** Check out our [YouTube Channel](https://www.youtube.com/@gexpro-s8h) for live agent walkthroughs.
 
 ---
 
