@@ -2,7 +2,7 @@
 > **Sub-500ms Market Reasoning | Gamma Exposure (GEX) | Agentic Vision**
 
 [![GEX Pro Terminal](https://img.shields.io/badge/Platform-Live-green.svg)](https://gexpro.asiaquant.com)
-[![AI-Powered](https://img.shields.io/badge/AI-Groq%20LPU-orange.svg)](https://groq.com)
+[![AI-Powered](https://img.shields.io/badge/AI%20LPU-orange.svg)](https://groq.com)
 
 GEX Pro Terminal is a professional-grade trading intelligence platform that combines **Gamma Exposure (GEX)** analysis with **Agentic AI** to provide a definitive edge in volatile markets. 
 
