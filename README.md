@@ -6,14 +6,14 @@
 
 GEX Pro Terminal is a professional-grade trading intelligence platform that combines **Gamma Exposure (GEX)** analysis with **Agentic AI** to provide a definitive edge in volatile markets. 
 
-Developed by [AsiaQuant](https://www.asiaquant.com), the terminal automates complex technical analysis by giving AI "eyes" on live charts, processing data with zero-latency execution.
+Developed by [AsiaQuant](https://gexpro.asiaquant.com), the terminal automates complex technical analysis by giving AI "eyes" on live charts, processing data with zero-latency execution.
 
 ---
 
 ## ⚡ Key Intelligence Features
 
-### 1. Agentic Vision (via Playwright + Groq)
-Our proprietary agent uses **Headless Playwright** to monitor TradingView charts 24/7. It doesn't just read price; it interprets market structure, candle patterns, and liquidity zones using the **Groq LPU (Llama 3/4)** for near-instant reasoning.
+### 1. AI
+Our proprietary agent uses recursive vaildation for signals against technical indicators. It doesn't just read price; it interprets market structure, candle patterns, and liquidity zones using the **LLM** for Neuro reasoning.
 
 ### 2. Gamma Exposure (GEX) Analytics
 Quantify the "Invisible Hand." We calculate market-maker hedging pressure to identify:
@@ -22,7 +22,7 @@ Quantify the "Invisible Hand." We calculate market-maker hedging pressure to ide
 * **Gamma Flips:** Real-time sentiment shifts based on options positioning.
 
 ### 3. Neural Signal Aggregation
-The terminal scrapes and filters elite signal intelligence from secure Telegram channels and news feeds, using **NLP Sentiment Analysis** to grade signals before they reach your dashboard.
+The terminal provides live news feeds and trades idea, using **NLP Sentiment Analysis** to grade signals before they reach your dashboard.
 
 ### 4. Automated Trade Journaling
 Instant generation of professional technical reports, including:
